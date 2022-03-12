@@ -1,5 +1,3 @@
-https://coderwall.com/p/r09hoq/android-generate-release-debug-keystores
-
 # Bootstrapped with Libgdx Project Generator
 
 ### Sub Projects
@@ -11,3 +9,8 @@ https://coderwall.com/p/r09hoq/android-generate-release-debug-keystores
 - Box2d
 - Ashley ECS
 - VisUI
+
+### Readings
+- [Examples ECS on libGDX](https://github.com/AndrewMisterio/examples)
+- [Full libGDX Game Tutorial - Entities using Ashley(ECS)](https://www.gamedevelopment.blog/full-libgdx-game-tutorial-entities-ashley/)
+- [An MVC guide for libGDX](https://otter.tech/an-mvc-guide-for-libgdx/)
